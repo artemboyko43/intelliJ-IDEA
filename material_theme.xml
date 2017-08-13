@@ -1,6 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="selectedTheme" value="PALENIGHT" />
     <option name="isMaterialDesign" value="false" />
-    <option name="accentColor" value="ff4081" />
+    <option name="accentColor" value="84ffff" />
   </component>
 </application>
